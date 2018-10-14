@@ -1,0 +1,11 @@
+{
+  "name": "mocha-tutorial",
+  "version": "1.0.0",
+  "description": "Test writing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
